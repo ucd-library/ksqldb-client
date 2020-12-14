@@ -1,5 +1,5 @@
 {
-  "name": "ksqldb-client",
+  "name": "@ucd-lib/ksqldb-client",
   "version": "0.0.1",
   "description": "ksqlDB NodeJS client",
   "main": "index.js",
